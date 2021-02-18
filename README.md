@@ -115,6 +115,7 @@ Graphic design is a complex art. To become a graphic designer, you need to maste
 
 .
 
+. ![ؤثققققققق.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613677728/%D8%A4%D8%AB%D9%82%D9%82%D9%82%D9%82%D9%82%D9%82%D9%82.png)
 
 
 
