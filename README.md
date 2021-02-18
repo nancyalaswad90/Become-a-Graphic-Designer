@@ -174,6 +174,67 @@ Layout and composition are the building blocks of graphic design. A strong compo
 
 
 
+##  Fifth Course  : [Graphic Design Foundations: Typography](https://www.linkedin.com/learning/graphic-design-foundations-typography/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+
+
+
+
+
+
+## Course details
+
+
+Good typography can add tremendous power to your design and your message, whether it is a print- or screen-based project, a still or motion graphic, a 3D or 2D graphic. This course explains good typographic practices, so that you can develop an "eye" for type and understand how to effectively use it. Author Ina Saltz explains type classifications (serif vs. sans serif, display type vs. text type), how type is measured, sized, and organized, and how spacing and alignment affect your design. She also explains how to use kerning, tracking, leading, and line length, and covers the history and current trends in typography. The course teaches the principles of legibility, readability, and compatibility, and how they should be considered when you're selecting and designing with type.
+
+
+
+
+
+## Learning objectives
+
+
+- What is typography?
+
+- Differentiating type characteristics
+
+- Using ornamental and decorative type
+
+- Combining typefaces
+
+- Using contrast and scale
+
+- Kerning and kerning pairs
+
+- Choosing the optimum line length
+
+- Aligning and spacing characters, words, and paragraphs
+
+- Understanding factors affecting legibility
+
+- Working with three-dimensional type
+
+- Putting type in motion
+
+
+
+## Skills covered
+
+
+- Graphic Design 
+
+- Typography
+
+
+
+
+.
+
+
+>
+
+.
+
+
 ##  Course  :
 
 ## Course details
@@ -181,6 +242,24 @@ Layout and composition are the building blocks of graphic design. A strong compo
 ## Learning objectives
 
 ## Skills covered
+
+
+
+
+
+
+
+
+
+##  Course  :
+
+## Course details
+
+## Learning objectives
+
+## Skills covered
+
+
 
 
 
