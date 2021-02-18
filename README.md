@@ -28,7 +28,9 @@ Are you curious about what graphic design really is? This video defines graphic 
 
 ## Skills covered
 
+- Small Business Management
 
+- Design Theory
 
 .
 
