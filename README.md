@@ -122,28 +122,71 @@ Graphic design is a complex art. To become a graphic designer, you need to maste
 .
 
 
+##  Fourth Course  : [Graphic Design Foundations: Layout and Composition (2013)](https://www.linkedin.com/learning/graphic-design-foundations-layout-and-composition-2013/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+
+
+## Course details
+
+
+Layout and composition are the building blocks of graphic design. A strong composition will attract attention, clarify understanding, and engage the viewer whether the project is a print- or screen-based project, a still or motion graphic, a 3D or 2D graphic. This course explains the elements, principles, and tools you will need to create a successful composition and layout. Author Sean Adams explains the elements of layout (from shapes to space), how to use principles such as scale and hierarchy, and teaches how tools like grids, proportions, and color can lead to more compelling compositions.
+
+
+
+
+## Learning objectives
+
+
+- What makes a successful layout?
+
+- Layout elements: shape, line, color, texture, type, and space
+
+- Using balance and tension to create a dynamic layout
+
+- Adding drama with contrast and scale
+
+- Working with proportions: golden section, rule of thirds, etc.
+
+- Creating the right grid for your design
+
+- Choosing simplicity or excess
+
+- Adding an element of surprise
+
+- Making images and typography work together
+
+
+
+## Skills covered
+
+- Graphic Design 
+
+- Layout Design
+
+
+
+
+
+
+.
+
+
+
+
 ##  Course  :
 
 ## Course details
+
+## Learning objectives
 
 ## Skills covered
 
 
 
 
-
-
 ##  Course  :
 
 ## Course details
 
-## Skills covered
-
-
-
-
-##  Course  :
-
-## Course details
+## Learning objectives
 
 ## Skills covered
