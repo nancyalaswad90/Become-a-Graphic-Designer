@@ -166,7 +166,7 @@ Layout and composition are the building blocks of graphic design. A strong compo
 
 .
 
-> 
+> ![certif.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613692080/certif.png)
 
 
 .
