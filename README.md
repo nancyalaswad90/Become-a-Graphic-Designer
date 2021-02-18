@@ -60,7 +60,7 @@ New to graphic design? You're in the right place. Discover the most crucial skil
 .
 
 
-> 
+> ![Second Course.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613608912/Second_Course.png)
 
 
 
