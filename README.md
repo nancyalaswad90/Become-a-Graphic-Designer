@@ -230,7 +230,7 @@ Good typography can add tremendous power to your design and your message, whethe
 .
 
 
->
+> ![cer typo.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613758364/cer_typo.png)
 
 .
 
