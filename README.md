@@ -235,16 +235,75 @@ Good typography can add tremendous power to your design and your message, whethe
 .
 
 
-##  Course  :
+##  Sixth Course  : [Color for Design and Art](https://www.linkedin.com/learning/color-for-design-and-art/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+
+
+
 
 ## Course details
 
+
+Color for Design and Art removes the mystery from color theory, showing artists and nonartists alike how to confidently choose, apply, and modify palettes of eye-catching hues. Jim Krause is a designer, a photographer, and an illustrator. He is also the author of 17 books, including Color for Designers and Color Index, part of his famed Index series of design books. In this course, Jim explains the essential components of color theory in simple language, showing how hues can be assembled into good-looking palettes and how you can use your design and illustration software to apply colors to logos, layouts, and illustrations. The training provides clear advice on how to create color schemes based on current trends and the tastes of different target audiences. Jim also shows how color can attract attention and affect mood and meaning.
+
+
+Primarily aimed at designers and illustrators, the course leans heavily toward digital tools such as Photoshop and Illustrator, but concludes with some challenges using real-world media (inks and paints!), so members can get a solid understanding of mixing colors and what tools and combinations work best.
+
+
 ## Learning objectives
+
+
+
+- Navigating the color wheel and color vocabulary
+
+- Why a color's value is so important
+
+- RGB vs. CMYK vs. spot
+
+- Finding the perfect color
+
+- Working with grays and browns
+
+- Building a color palette
+
+- Borrowing hues for palettes
+
+- Establishing color hierarchies
+
+- Fixing color problems
+
+- Altering color in photos and illustrations
+
+- Using texture with color
+
+- Painting for learning and fun
+
+
+
 
 ## Skills covered
 
+- Color
+
+- Color Theory
+
+- Adobe Illustrator
+
+- Design Theory
 
 
+
+.
+
+
+> ![cer Art.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613864373/cer_Art.png)
+
+
+
+.
+
+
+
+----------------------
 
 
 
