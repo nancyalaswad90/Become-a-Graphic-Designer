@@ -310,19 +310,35 @@ Primarily aimed at designers and illustrators, the course leans heavily toward d
 
 
 
-##  Course  :
+##  Course  : [Photoshop 2021 Essential Training: The Basics](https://www.linkedin.com/learning/photoshop-2021-essential-training-the-basics/keep-learning-photoshop-working-on-your-own-projects?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+
+
 
 ## Course details
 
-## Learning objectives
+Whether you’re looking to pursue a career in design or photography or just want to enhance the images you take of your family and friends, learning how to use Photoshop is one of the best investments you can make in your work. In this course, Julieanne Kost helps you get up to speed with Photoshop 2021, filtering out the noise and complexity to help you quickly achieve the results you want. Julieanne walks through the fundamentals of digital imaging—from working with multiple images to customizing the Photoshop interface. She explains how to choose the right tools to crop, tone, and retouch photos, while always maintaining the highest-quality output. She also demonstrates the most efficient ways to perform common tasks, including working with layers, selections, and masking. Along the way, she shares the secrets of nondestructive editing using Smart Objects, and helps you master features such as adjustment layers, blend modes, filters, type, layer styles, and much more.
+
+
+
+
 
 ## Skills covered
 
+- Adobe Photoshop
+
+- Image Editing
 
 
 
+.
 
 
+
+> ![certif.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614029412/certif.png)
+
+.
+
+-----------------------------
 ##  Course  :
 
 ## Course details
