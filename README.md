@@ -378,6 +378,35 @@ InDesign is an essential tool for design firms, ad agencies, magazines, newspape
 
 ----------------------------------
 
+##  Course  : [Illustrator 2021 Essential Training](https://www.linkedin.com/learning/illustrator-2021-essential-training/welcome-to-adobe-illustrator-2021-essential-training?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+
+
+## Course details
+
+Illustrator can be used to accomplish many different design tasks. For this reason, Illustrator 2021 Essential Training teaches core concepts and techniques that can be applied to any workflow for print, the web, or assets that will find their way into other applications. Instructor Tony Harmer covers the essentials of Illustrator 2021, including artboards, workspaces, layers, and shapes. Tony discusses vector graphics—paths, strokes, and fills—and shows how to use each of the drawing tools in Illustrator. He demonstrates how to combine and clean up paths, and organize them into groups and layers. Tony also covers text editing, working with color, expressive brush drawing, effects, and much more.
+
+
+
+
+
+## Skills covered
+
+
+
+- Adobe Illustrator
+
+- Digital Illustration
+
+
+.
+
+> ![certif.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614283205/certif.png)
+
+
+.
+
+
+------------
 ##  Course  : 
 
 
@@ -388,6 +417,19 @@ InDesign is an essential tool for design firms, ad agencies, magazines, newspape
 
 ## Skills covered
 
+
+
+
+------------
+##  Course  : 
+
+
+## Course details
+
+
+## Learning objectives
+
+## Skills covered
 
 
 ------------
