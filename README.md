@@ -339,9 +339,63 @@ Whether you’re looking to pursue a career in design or photography or just wan
 .
 
 -----------------------------
-##  Course  :
+
+
+##  Course  : [InDesign 2021 Essential Training](https://www.linkedin.com/learning/indesign-2021-essential-training/next-steps?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+
+
 
 ## Course details
+
+
+InDesign is an essential tool for design firms, ad agencies, magazines, newspapers, book publishers, and freelance designers around the world. In this course, instructor David Blatner presents a thorough explanation of the core features and techniques that make this powerful page-layout application fun and easy to use, providing a foundation upon which advanced skills and workflows can be built. David gets you up to speed fast, with a quick start chapter that teaches you the basics in less than 20 minutes. Then he dives into the details, including managing documents and pages, editing text and graphics, creating interactive documents, and much more. Take the entire course, or focus on just the features you need to learn. Every lesson brings you one step closer to InDesign proficiency—an essential skill for any career in design or publishing.
+
+
+.
+
+
+## Skills covered
+
+
+- Page Layout 
+
+- Adobe InDesign
+
+
+
+.
+
+
+> 
+
+.
+
+
+
+
+
+
+
+----------------------------------
+
+##  Course  : 
+
+
+## Course details
+
+
+## Learning objectives
+
+## Skills covered
+
+
+
+------------
+##  Course  : 
+
+
+## Course details
+
 
 ## Learning objectives
 
