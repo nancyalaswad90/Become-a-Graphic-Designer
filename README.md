@@ -407,18 +407,63 @@ Illustrator can be used to accomplish many different design tasks. For this reas
 
 
 ------------
-##  Course  : 
+
+
+##  Course  : [Creative Collaboration](https://www.linkedin.com/learning/creative-collaboration/enter-a-new-world-of-creative-collaboration-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+
+
 
 
 ## Course details
 
 
+Despite the prevalent myth of the lone creative genius, many of the most innovative contributions spring from the creative chemistry of a group and the blending of everyone’s ideas and concepts. How can you best leverage your team’s collective wisdom? Join international speaker and trainer Denise Jacobs for a fresh approach to creative collaboration that makes the process productive and fun. Learn how to recognize and remove personal creative blocks, connect and communicate with others, combine ideas using play, and construct a collaborative environment to tap into a group’s creative brilliance. With these techniques and exercises, you’ll be able to embrace and leverage a diverse range of ideas and create better together.
+
+
+
+
 ## Learning objectives
+
+
+
+- Unblocking your creativity
+
+- Experimenting and failing on purpose
+
+- Sharing ideas
+
+- Listening
+
+- Remixing ideas
+
+- Using improve for collaboration
+
+- Creating the right environment
+
+
+
+
+
+
 
 ## Skills covered
 
+- Strategic Collaboration
+ 
+- Teamwork
+
+- Creativity Skills
 
 
+
+
+.
+
+
+> 
+
+
+.
 
 ------------
 ##  Course  : 
