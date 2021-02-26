@@ -467,15 +467,35 @@ Despite the prevalent myth of the lone creative genius, many of the most innovat
 
 
 ------------
-##  Course  : 
+
+
+##  Course  : [Color Trends](https://www.linkedin.com/learning/color-trends/more-resources?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+
 
 
 ## Course details
 
+Color is a deeply rooted form of communication—a universal language than can be understood 60,000 times faster than text alone. Leveraged the right way, color can elicit positive emotion and associations that other imagery cannot. Brands are embracing more use of color in their campaigns, and knowing how and when to use the newest color trends will keep you on top of your design game. In this course, designer and brand strategist Nicte Cuevas shares how you can use the Pantone color of the year—Classic Blue—and other color trends to engage your audience. Learn how to understand the emotional triggers behind the color trends, identify what colors work well together, what industries are best suited for the latest trends and why, and how to incorporate new colors in your designs.
 
-## Learning objectives
+
+
+
 
 ## Skills covered
+
+- Color Theory
+
+- Brand Design
+
+- Design Theory
+
+
+
+
+.
+
+
+.
 
 
 ------------
