@@ -18,7 +18,7 @@ Graphic designers create visual concepts that inspire, inform, and transform. Us
 
 .
 
->
+> ![comp.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614462373/comp.png)
 
 
 .
