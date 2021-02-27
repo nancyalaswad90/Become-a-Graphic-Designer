@@ -16,6 +16,15 @@ Graphic designers create visual concepts that inspire, inform, and transform. Us
 
 
 
+.
+
+>
+
+
+.
+
+
+
 ## First Course  : [What is Graphic Design?](https://www.linkedin.com/learning/what-is-graphic-design/what-is-graphic-design?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
 
 
