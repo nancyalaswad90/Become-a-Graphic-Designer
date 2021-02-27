@@ -498,14 +498,3 @@ Color is a deeply rooted form of communication—a universal language than can b
 
 .
 
-
-------------
-##  Course  : 
-
-
-## Course details
-
-
-## Learning objectives
-
-## Skills covered
