@@ -320,7 +320,7 @@ Primarily aimed at designers and illustrators, the course leans heavily toward d
 
 
 
-##  Course  : [Photoshop 2021 Essential Training: The Basics](https://www.linkedin.com/learning/photoshop-2021-essential-training-the-basics/keep-learning-photoshop-working-on-your-own-projects?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+## Seventh Course  : [Photoshop 2021 Essential Training: The Basics](https://www.linkedin.com/learning/photoshop-2021-essential-training-the-basics/keep-learning-photoshop-working-on-your-own-projects?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
 
 
 
