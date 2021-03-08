@@ -388,7 +388,7 @@ InDesign is an essential tool for design firms, ad agencies, magazines, newspape
 
 ----------------------------------
 
-##  Course  : [Illustrator 2021 Essential Training](https://www.linkedin.com/learning/illustrator-2021-essential-training/welcome-to-adobe-illustrator-2021-essential-training?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+## Eighth Course  : [Illustrator 2021 Essential Training](https://www.linkedin.com/learning/illustrator-2021-essential-training/welcome-to-adobe-illustrator-2021-essential-training?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
 
 
 ## Course details
@@ -419,7 +419,7 @@ Illustrator can be used to accomplish many different design tasks. For this reas
 ------------
 
 
-##  Course  : [Creative Collaboration](https://www.linkedin.com/learning/creative-collaboration/enter-a-new-world-of-creative-collaboration-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+## Ninth Course : : [Creative Collaboration](https://www.linkedin.com/learning/creative-collaboration/enter-a-new-world-of-creative-collaboration-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
 
 
 
@@ -479,7 +479,7 @@ Despite the prevalent myth of the lone creative genius, many of the most innovat
 ------------
 
 
-##  Course  : [Color Trends](https://www.linkedin.com/learning/color-trends/more-resources?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
+## Tenth Course : : [Color Trends](https://www.linkedin.com/learning/color-trends/more-resources?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7ab1b3dd559b764b88a94)
 
 
 
